@@ -1,0 +1,616 @@
+<html xmlns:="" fb="http://www.facebook.com/2008/fbml"><head> 
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="robots" content="noindex, nofollow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+                <title>Welcome to Office of Admissions</title>
+
+                
+        <link rel="icon" sizes="16x16" href="/favicon.ico">
+
+        <link href="/css/font-Pe-icon-7-stroke.min.css" rel="stylesheet" type="text/css" media="all">
+        <link href="/css/main.css" rel="stylesheet" type="text/css" media="all">
+        <link href="/css/fonts.css" rel="stylesheet" type="text/css" media="all">
+        <link href="/css/menu.css" rel="stylesheet" type="text/css" media="all">
+        <link href="/css/body.css" rel="stylesheet" type="text/css" media="all">
+
+                <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="/css/slidemenu.css" rel="stylesheet" type="text/css" media="all">
+        
+
+
+        <script src="/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all">
+        <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+        
+        <script src="/js/jquery.slidemenu.js" type="text/javascript"></script>
+
+                            <style type="text/css">
+                .headerText a{color: #f1f1f1;}
+            </style>
+        
+
+    <style type="text/css">
+        .topHFix{height: 60px; background-color: #eaf;}
+
+        .navbar {background-color: #333;}
+        @media (min-width: 768px){.navbar {background-color: #f1f1f1; }}
+        @media (max-width: 960px){ .headerCont img {position: absolute;left: -174px;} }
+
+            </style>
+
+
+
+    
+    <!-- For owl carousel -->
+    <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css">
+
+
+
+             
+
+    <style type="text/css">
+        .header .fix{opacity:.95;}
+        .hTitle{border-left: 5px solid #72D0F4;}
+        .contant  .cont{padding:0 30px; max-width: 1100px; margin: 0 auto; font-size: 1em;}
+
+        .pro{text-align: center;  }
+        .illustration{display: inline-block; margin: 0 auto;}
+        .illustration div{text-align: center;}
+        .imgNote{height: 150px;}
+
+        .footerBanner {  display: block; min-height: 150px; background-color: #2D677C; }
+        .footerBanner .cont{margin: 0 auto; margin-bottom: 20px; display: inline-block; min-width: 200px; width: 300px; vertical-align: top;}
+        .footerBanner .cont h4 {border: 1px solid #B8B8B8; padding: 5px;width: 200px;  font-weight: normal; font-size: 1.3em; color: #eee; text-align: left; position: relative; top: -0px;}
+        .footerBanner .cont li {list-style: none; min-width: 100px; line-height: 30px; text-align: left;}
+        .footerBanner .cont li img, .footerBanner .cont li div{display: inline-block;}
+        .footerBanner .cont li div{margin-left: 10px;}
+        .footerBanner .cont a {text-decoration: none; color: #ccc;}
+        .form-group input{height: 30px;}
+        .login-box .login-box-body {border: 0px solid #CFCFCF; background: #F0F0F0; }
+
+        .bPanel{ -webkit-box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);}
+        .bPanel1{display: inline-block; font-size: 1.3em; padding-top: 30px;}
+        .bPanel1, .bPanel1 p{color: #fff;}
+                .bPanel2{background:#fff;padding:15px;}
+        .bPanel2 p{padding: 5px 10px; border-left: 3px solid #244641; background-color: #70C7D0; font-size: 2em; color: #fff;}
+        .bPanel2 li{line-height: 30px;}
+        .bPanel2 h3{ color: #20B6C5}
+        .bPanel2>div:not(.first){margin:15px 0;}
+        ul.b ul{padding-left:30px;}
+        ul.b ul li{list-style:circle;}
+
+        ol.hardcopy>li{list-style-type: lower-latin;}
+        ol.hardcopy ol>li{list-style-type:lower-roman;}
+        .blue{color:blue;}
+        .waive{list-style:circle;}
+        .admission .btn{margin:5px 0px;opacity:0.8;border:1px solid #ffffff;color:#fff;width:240px;border-radius:0;font-size:20px;}
+        .admission .btn:hover{}
+        .carousel-control .glyphicon{padding:15px;border:1px solid white;border-radius:4px;position:absolute;top:50%;font-size:24px;color:#fff;}
+        .carousel-control .glyphicon:hover{border:none;background:#000000;opacity:0.8;}
+
+        .admission{position:absolute;right:0px;z-index:1;min-height:500px;width:100%;}
+        .admission .fixwidth{text-align: center; margin: 0 auto; height: 420px;  padding: 3px;  border: 0px solid;}
+        .admission a{display:block;}
+        .admission .left{float:left; position: relative;opacity:0.95;}
+        .admission .right{float: right; position: relative;}
+
+        .news{margin: 10px 5px 0 0; padding: 10px;font-size:1.2em;text-align:left;}
+        .news c{font-weight: bold;display: block;}
+        .news span{padding: 10px 0px;display:block;}
+        .news b{padding-right: 10px;}
+        .adm-click{padding: 10px;font-size: 1.2em;background-color:rgba(23, 56, 72, 0.58);text-align:left; color:#fff;}
+        .adm-click h4{margin: 4px 0;}
+        .adm-close{position:absolute;top:5px;right:5px;}
+        .adm-info{display:none;padding: 8px; background-color:rgba(255, 255, 255, 0.79);}
+        r{color:#CE5050;}
+
+        .image .row{margin:0;}
+        .image .panel,.image .panel-body,.image .panel-heading{border:0;box-shadow: 0 0 0;text-align:center;}
+        .panel-body p{font-size:1em;padding:15px 0; border:0; text-align:left;}
+        .image h1{text-align:center;}
+        .image .img-responsive{border-radius:50%;width:240px;height:240px;}
+
+        /*carousel starts here*/
+
+        .item img {height: 400px !important;width: 100%;}
+        .bgcolor1{    background: #af085c;
+                      background: -moz-linear-gradient(-45deg, #af085c 0%, #7003a6 37%, #430fac 100%);
+                      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #af085c), color-stop(37%, #1a3a94), color-stop(100%, #0d6782));
+                      background: -webkit-linear-gradient(-45deg,  #af085c 0%, #1a3a94 37%, #0d6782 100%);
+                      background: -o-linear-gradient(-45deg,  #af085c 0%, #1a3a94 37%, #0d6782 100%);
+                      background: -ms-linear-gradient(-45deg,  #af085c 0%, #1a3a94 37%, #0d6782 100%);
+                      background: linear-gradient(135deg, #af085c 0%, #1a3a94 37%, #0d6782 100%);
+                      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#af085c', endColorstr='#430fac', GradientType=1 );}
+
+        .bgcolor2{ background-color: #e8e8e8;}
+        .box{ min-height: 250px; text-align: left; margin: 20px 0; padding: 20px; }
+
+        .download h2{margin-top: 0;}
+        .download a{line-height: 35px;color: #fff;}
+        .download a img{margin-right: 10px;}
+        y{color: #fff700;}
+
+
+    </style>
+
+         
+    </head>
+    <body id="home">
+
+         
+            <d       <nav class="navbar navbar-default navbar-fixed-side">
+                    <div class="">
+                        <div class="navbar3 navbar-default">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="mini_logo navbar-brand" href="/" style="padding:0px 15px;">
+                                    <img src="/./images/web/banner_logo.png" alt="Image" style="">
+                                </a>
+                            </div>
+                            <div class="collapse navbar-collapse" id="myNavbar">
+                                <ul class="nav navbar-nav">
+                                    <li class="first dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">  UNDERGRADUATE   <i class="pe pe-angle-down" aria-hidden="true"></i> </a>
+                                        <ul class="menu_level_1 dropdown-menu">
+                                            <li class="first"> <a href="/undergraduate_requirement"> Admission Requirement  </a>
+                                            <li> <a href="http://admissions.northsouth.edu/uploads/download/ug_flyer.pdf" target="target"> UG Admission Flyer</a> </li>
+                                            <li class="last"><a href="http://admissions.northsouth.edu/uploads/download/Sample-Question_NSU_162.pdf" target="target">UG Admission Test Sample Question</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">    GRADUATE  <i class="pe pe-angle-down" aria-hidden="true"></i> </a>
+                                        <ul class="menu_level_1 dropdown-menu">
+                                            <li class="first"> <a href="/graduate_requirement"> Admission Requirement </a></li>
+                                            <li> <a href="/download_form"> Admission Form</a>  </li>
+                                            <li class="last"> <a href="/graduate_ads"> Spring 2017 Circulation</a>  </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">INTERNATIONAL  <i class="pe pe-angle-down" aria-hidden="true"></i>  </a>
+                                        <ul class="menu_level_1 dropdown-menu">
+                                            <li class="first last"> <a href="/int_student">INTERNATIONAL STUDENT  </a> </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown"> STUDENTS    <i class="pe pe-angle-down" aria-hidden="true"></i></a>
+                                        <ul class="menu_level_1 dropdown-menu"><li class="first"><a href="/student_fad">        FINANCIAL ASSISTANCE </a>   </li>
+                                            <li class="last"> <a href="/transfer"> TRANSFER STUDENTS  </a>   </li>
+                                        </ul>
+                                    </li>
+                                    <li>  <a href="/tuition">  FEES</a></li>
+                                    <li class="dropdown">  <a href="#" class="dropdown-toggle" data-toggle="dropdown"> ABOUT  <i class="pe pe-angle-down" aria-hidden="true"></i> </a>
+                                        <ul class="menu_level_1 dropdown-menu">
+                                            <li class="first"><a href="/about">  ABOUT NSU </a> </li>
+                                            <li>   <a href="/history">  HISTORY  </a> </li>
+                                            <li class="last"> <a href="/contact">CONTACT US   </a> </li>
+                                        </ul>
+                                    </li>
+                                    <li class="last"> <a href="/faq"> ASK </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+                
+        
+            <div class="admission contant">
+
+        <div class="cont">
+            <div class="left">
+                <div class="adm-click" role="button">
+                    <div style="background-color: #fff; color:#084c56; padding: 1px 8px;"><h4>Undergraduate Admission Test for Spring 2017</h4></div>
+                    <b><y>Deadline:</y></b> November 22, 2016 Tuesday 11:59 PM<br>
+                    <b><y>Admission Test:</y></b> November 25, 2016 Friday 10:00 AM
+                    <br><br>
+                    <div style="background-color: #fff; color:#084c56; padding: 1px 8px;"><h4>Graduate Admission Test for Spring 2017</h4></div>
+                    <b><y>Deadline:</y></b>  November 30, 2016, 05:00 PM <br>
+                    <b><y>Admission Test:</y></b>  2nd December, 2016 Friday 10:00 AM
+                </div>
+                <div class="adm-info">
+                    <div class="adm-close" role="button">
+                        <span class="glyphicon glyphicon-remove"></span>
+                    </div>
+                    <div class="news">
+                        <c>Undergraduate Admission Test for Spring 2017</c>
+                        <span><b>Deadline:</b> November 22, 2016, Tuesday 11:59 PM </span>
+                        <b><r>Admission Test:</r></b> November 25, 2016 Friday 10:00 AM
+                    </div>
+                    <div class="news">
+                        <c>Graduate Admission Test for Spring 2017</c>
+                        <span><b>Deadline:</b> November 30, 2016, 05:00 PM </span>
+                        <b><r>Admission Test:</r></b> 2nd December, 2016 Friday 10:00 AM
+                    </div>
+                </div>
+            </div>
+
+            <div class="right">
+                <a class="btn btn-danger" target="_blank" href="http://apply.northsouth.edu:8080/admissionWeb/admission_rule.view" role="button">Apply Online</a>
+                                <a class="btn btn-info" target="_blank" href="http://apply.northsouth.edu:8080/admissionWeb/admission_data_check.view" role="button">Check Application Status</a>
+                <a class="btn btn-primary" target="_blank" href="http://apply.northsouth.edu:8080/admissionWeb/pay_online.view" role="button">Pay Online</a>
+                                <a class="btn btn-success" target="_blank" href="http://apply.northsouth.edu:8080/admissionWeb/print_admit_card.view" role="button">Print Admit Card</a>
+                <a class="btn btn-warning" target="_blank" href="http://apply.northsouth.edu:8080/admissionWeb/print_admission_form.view" role="button">Print Your Form</a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="slidertop maxwidth">
+        <div class="slider">
+
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active"><img src="/./images/web/slider2.jpg" alt="Chania"></div>
+                                                                                        </div>
+                <!-- Left and right controls -->
+                            </div>
+        </div>
+    </div>
+
+
+        <div class="wrapper">
+            <div class="fcontent">
+                    <div class="contant">
+
+        <div class="bgcolor1 maxwidth container-fluid" style="text-align: center;">
+            <div class="cont round robotoThin" style="padding: 10px;">
+                <div class="bPanel0 bPanel1 row">
+                    <div class="col-md-6">
+                        <div style="text-align: justify;">
+                            <h1 style="font-size: 1.8em;text-align: left;">NORTH SOUTH UNIVERSITY</h1>
+                            <p>
+                                North South University, the first private university in Bangladesh, was established by a group of philanthropists, industrialists, bureaucrats and academics. The government of Bangladesh approved the establishment of North South University in 1992 under Private University Act (PUA)-1992 (now replaced by PUA-2010). The university was formally inaugurated on 10 February, 1993 by the Prime Minister of Bangladesh. The honorable President of the People's Republic of Bangladesh is the Chancellor of NSU. 
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 box download">
+                        <h2>Download</h2>
+                                                <div class="row" style="color: #fcf8e3;">
+                            <div class="col-sm-12 robotoThin">
+                                <a target="_blank" href="/uploads/download/ug_flyer.pdf"><img src="/images/web/doc2.png" alt="UG Flyer" width="25">Undergraduate Admission Inofrmation Spring 2017</a>
+                            </div>
+                        </div>
+                        <div class="row" style="color: #fcf8e3;">
+                            <div class="col-md-12 robotoThin">
+                                <a target="_blank" href="/uploads/download/Sample-Question_NSU_162.pdf"><img src="/images/web/doc2.png" alt="UG Flyer" width="25">Undergraduate Sample Question </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div> 
+                <div class="segoeRegular" style="font-size: 1em; line-height: 1.7em;  text-align: justify;">
+                    <br><br>
+                </div>
+            </div>
+        </div>
+
+        <!------------Start of image Gallery ------------------>
+
+        <!--  <div class="contant" style="background:#eee;">
+             <div class="cont image" style="padding: 10px 0px;">
+                 <div class="bPanel bPanel2">
+                     <div class="first">
+                         <h1>ONLY PATIENCE & PERSISTENCE GIVE<br/> GOOD RESULTS</h1>
+                         <div class="row">
+                             <div class="col-sm-4">
+                                 <div class="panel">
+                                     <div class="panel-heading"><h4>ALLUMNI</h4></div>
+                                     <div class="panel-body">
+                                         <img class="img-responsive" src="/images/web/nsu1.png" alt="img">
+                                         <p>
+                                             Sean Damon is our Financial Consultant. He has over 10 years experience as an investment 
+                                             and financial advisor focusing on personal investment management. He is responsible for 
+                                             maintaining strong business relationships with clients to determine their financial needs. 
+                                             Sean works with clients to determine their goals, provide market information and economic updates.
+                                         </p>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="col-sm-4">
+                                 <div class="panel">
+                                     <div class="panel-heading"><h4>CONVOCATION</h4></div>
+                                     <div class="panel-body">
+                                         <img class="img-responsive" src="/images/web/nsu1.png" alt="img">
+                                         <p>
+                                             Sean Damon is our Financial Consultant. He has over 10 years experience as an investment 
+                                             and financial advisor focusing on personal investment management. He is responsible for 
+                                             maintaining strong business relationships with clients to determine their financial needs. 
+                                             Sean works with clients to determine their goals, provide market information and economic updates.
+                                         </p>
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="col-sm-4">
+                                 <div class="panel">
+                                     <div class="panel-heading"><h4>LIBRARY</h4></div>
+                                     <div class="panel-body">
+                                         <img class="img-responsive" src="/images/web/nsu1.png" alt="img">
+                                         <p>
+                                             Sean Damon is our Financial Consultant. He has over 10 years experience as an investment 
+                                             and financial advisor focusing on personal investment management. He is responsible for 
+                                             maintaining strong business relationships with clients to determine their financial needs. 
+                                             Sean works with clients to determine their goals, provide market information and economic updates.
+                                         </p>
+                                     </div>
+                                 </div>
+                             </div>
+     
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div> -->
+        <!------------End of image Gallery ------------------>           
+
+                <!--  -->
+        <div class="bgcolor2 maxwidth" style="">
+            <div class="cont round" style="color: #1E609A; padding: 10px 0px; min-height: 400px; ">
+
+                <div class="bPanel bPanel2">
+                    <br>
+                    <blockquote class="silver">
+                        <h3>Undergraduate Admission Requirements</h3>
+                                            </blockquote>
+                                        <div class="first">
+                        <h3>Minimum Academic Qualifications:</h3>
+                        <ul class="b">
+                            <li>Combined GPA of 8.0 in both SSC and HSC with
+                                minimum GPA 3.5 in each <b>OR</b></li>
+                            <li><b>GCE O-Levels and A-Levels :</b>O-levels in five subjects
+                                with Average Grade Point of 2.5 or above and A-levels
+                                in two subjects with Average Grade Point of 2.0 or
+                                above. (scale A=5, B=4, C=3, D=2 &amp; E=1) <b>OR</b>
+                            </li>
+                            <li>US High School Diploma or equivalent</li>
+                            <li>Academic qualification other than the above need to
+                                contact Admissions Office to check the eligibility</li>
+                            <li>For all programs of <b>School of Engineering &amp; Physical Sciences,</b> applicants must have Math or Physics with minimum B grade in HSC or C grade in A-levels.</li>
+                            <li>For <b>Biochemistry and Microbiology,</b> applicants must have Biology and Chemistry at SSC/HSC or O/A- levels.</li>
+                            <li>For <b>BPharm Professional,</b> applicants must have Biology &amp; Chemistry, with minimum B grade in HSC and C grade in A-levels and should have done Physics in HSC/A-levels to be eligible to apply.</li>
+                            <li>Acceptable scores in NSU’s admission test.</li>
+                            <li>Admission test will be waived for those who have got<br>
+                                i. a minimum score of 1500 (OLD) or 1000 (New) in SAT <b>AND</b><br>
+                                ii. 500 (CBT 213/IBT 79) in TOEFL OR Minimum 5.5 in IELTS</li>
+
+
+                        </ul>
+                        <b>* NSU reserves the right to change any requirement at any time.
+                            Candidates are advised to visit NSU website for updates.</b>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="bgcolor2 maxwidth" style="">
+            <div class="cont" style="padding: 10px 0px;">
+                <div class="bPanel bPanel2">
+                    <div>
+                        <blockquote class="silver"><h3>Admission Test Procedure</h3></blockquote>
+                        <br>
+                        <ul><h3>Test date Instruction:</h3>
+                            <li>All candidates must bring <r>one original photo ID</r> (Passport or NID
+                            or HSC Registration Card)</li>
+                            <li>All candidates must report at least 30 min before the admission test</li>
+                            <li>Cell phone, digital watch, calculator, tab, camera and hand bag will
+                                not be allowed at the exam hall</li>
+                            <li>All candidates should bring pens, pencils, sharpeners, erasers etc</li>
+                        </ul>
+                        <br>
+                    </div>
+                    <div>
+                        <ul><h3>Admission Test Duration</h3>
+                            <li class="blue">
+                                A two-hour Admission Test consisting of English grammar &amp;
+                                vocabulary, Quantitative Aptitude (General Math), Reading
+                                comprehension and Composition.<br>
+                                In addition, there will be a 30-minutes drawing test for the
+                                Bachelor of Architecture candidates.<br>
+                                The Quantitative Aptitude part of the Admission Test requires the
+                                ability to solve SSC/O-levels math problems. 
+                            </li>
+                            <br>
+                            <li class="blue">
+                                <b>Following documents of the <r>successful candidates</r> will be
+                                    needed at the time of Admission.</b></li>
+                            <li>(a) SSC/O-levels mark sheet and certificate</li>
+                            <li>(b) HSC/A-levels mark sheet and certificate (if available)</li>
+                            <li>(c) Passport size photograph of candidate and parents</li>
+                            <li>(d) Photo ID of candidate and parents NID</li>
+                        </ul>
+                        <br>
+                    </div>
+                    <div>
+                        <h3>Admission Test Waive Policy</h3>
+                        <ul class="b waive">
+                            <li>Admission test will be waived for those who have got
+                                <br>i. a minimum score of 1500 (OLD) or 1000 (New) in SAT <b>AND</b>
+                                <br>ii. 500 (CBT 213/IBT 79) in TOEFL OR Minimum 5.5 in IELTS
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div> <br> 
+
+            </div>
+        </div>
+         
+
+        <div class="footer maxwidth" style="background-color: #395571;"> 
+                <style type="text/css">
+
+    .footer1 h5{color: #f3f3f3; font-family: "Roboto";border-bottom: 1px solid #165E79; padding-bottom: 20px; }
+    .footer1 a{color: #eee; font-size: 0.8em; font-family:  'Muli', 'Roboto';}
+    .footerBanner, .footer2{text-align: left;margin:0 auto;}
+    .footer2 .row ul li a{color:#000;font-size:.85em;}
+    .footer2 .row h5{font-size:1em;font-weight:bold;}
+    .inner2 {text-align:center; font-size: 0.8em;}
+
+    .hotline{position:fixed;bottom:0px;right:0px;}
+    .click:hover{background:#eee;opcity:0.4;}
+    .info,.click{background:#fff;text-align:justify;border-left:1px dashed #003bb3;border-top:1px dashed #003bb3;}
+    .show{visibility:visible;opacity:1;}
+    .info{padding-top:20px;padding-left:20px;padding-bottom:15px;padding-right:15px;}
+    .click{padding-top:8px;padding-left:12px;padding-bottom:8px;padding-right:8px; background-color: #F3F088;}
+    .hidden{visibility:hidden;opacity:0;}
+    .contact{padding-bottom: 8px;padding-right: 8px;}
+    .close{position:absolute;top:5px;right:5px;}
+
+</style>
+<div class="footer">
+
+
+    <div class="footer2">
+        <div class="inner2 fixwidth">
+            <div class="" style="color:#fff;">Copyright © NSU 2015-2016,
+                <br>Contact: 880-2-55668200, Ext: 5000,5002,5004,4001 
+                <br><a href="https://www.facebook.com/nsu.admissions/" target="_blank">https://www.facebook.com/nsu.admissions/</a>
+            </div>
+            <br>
+        </div>
+        <div class="hotline">
+            <div class="click" role="button">
+                <h4>HOTLINE</h4>
+            </div>
+            <div class="info hidden">
+                <div class="close" role="button">
+                    <span class="glyphicon glyphicon-remove"></span>
+                </div>
+                <h3>NORTH SOUTH UNIVERSITY</h3>
+                <div class="contact">
+                    For Admission related information
+                    <br>Call: 880-2-55668200, Ext: 5000,5002,5004,4001 
+                    <br><a href="https://www.facebook.com/nsu.admissions/" target="_blank">https://www.facebook.com/nsu.admissions/</a>
+                </div>
+                <div class="contact">
+                    <br>For Online Application Information
+                    <br>Call: +880 1724878502
+                </div>
+
+            </div>    
+        </div>
+    </div>
+
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('.click').click(function () {
+            $('.info').removeClass('hidden');
+            $('.click').addClass('hidden');
+        });
+        $('.close').click(function () {
+            $('.info').addClass('hidden');
+            $('.click').removeClass('hidden');
+
+        });
+    });
+</script>        </div>
+
+
+        
+             
+
+
+        <script>
+            $(function () {
+                $(".slide-menu").slidemenu();
+            });
+
+            $(window).scroll(function () {
+                var scroll = $(document).scrollTop();
+                if (scroll > 50) {
+                    $(".header").addClass("active");
+                    $('.headerCont').addClass('fix');
+                    $('.header').addClass('fix-margin');
+                    $('.topDiv').addClass('topHFix');
+                } else {
+                    $(".header").removeClass("active");
+                    $('.headerCont').removeClass('fix');
+                    $('.header').removeClass('fix-margin');
+                    $('.topDiv').removeClass('topHFix');
+                }
+            });
+            // Menu script
+            $(document).ready(function () {
+                $(function () {
+                                });
+
+                    $('.expand .glyphicon').on('click', function () {
+                        if ($(this).hasClass('glyphicon-resize-full'))
+                        {
+                            $(this).removeClass('glyphicon-resize-full');
+                            $(this).addClass('glyphicon-resize-small');
+                        } else {
+                            $(this).removeClass('glyphicon-resize-small');
+                            $(this).addClass('glyphicon-resize-full');
+                        }
+                    });
+
+                    $('.navbar-btn').on('click', function () {
+                        $('.sidemenu').fadeToggle();
+                    });
+                    $(window).bind("resize", function () {
+                        if (parseInt($(window).width()) > 766) {
+                            $('.sidemenu').fadeOut();
+                        }
+                    });
+
+                    $('.sidemenu .dropdown a').on('click', function () {
+                        $('.sidemenu .dropdown-menu').fadeToggle()
+                        $('.sidemenu .dropdown b.caret').toggleClass('flipped');
+                    });
+                });
+                var shortMenu = function () {
+                    $('.headerCont').addClass('fix');
+                    $('.header').addClass('fix-margin');
+                }
+                $(window).scroll(function () {
+                    var scroll = $(window).scrollTop();
+                    if (scroll > 0) {
+                        $(".header").addClass("active");
+                    } else {
+                        $(".header").removeClass("active");
+                    }
+                });
+        </script>
+    
+
+    <!-- For owl carousel -->
+    <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('.adm-click').click(function () {
+                $(".adm-click").fadeOut(0, function () {
+                    $(".adm-info").fadeIn("slow");
+                });
+            });
+            $('.adm-close').click(function () {
+                $(".adm-info").fadeOut("slow", function () {
+                    $(".adm-click").fadeIn("slow");
+                });
+            });
+
+            $(".owl-carousel").owlCarousel({
+                autoPlay: 3000, //Set AutoPlay to 3 seconds
+
+                items: 3,
+                itemsDesktop: [1199, 3],
+                itemsDesktopSmall: [979, 3]
+
+            });
+        });
+    </script>
+
+
+    
+    <script type="text/javascript">
+
+
+    </script>
+
+</body></html>

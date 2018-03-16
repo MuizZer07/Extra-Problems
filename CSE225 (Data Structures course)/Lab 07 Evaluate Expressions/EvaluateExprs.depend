@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1478114777 source:e:\documents\5th semester 163\cse225\codes\evaluateexprs\charstack.cpp
+	"CharStack.h"
+
+1478116246 e:\documents\5th semester 163\cse225\codes\evaluateexprs\charstack.h
+	<iostream>
+	"Header.h"
+
+1478116323 e:\documents\5th semester 163\cse225\codes\evaluateexprs\header.h
+
+1478190979 source:e:\documents\5th semester 163\cse225\codes\evaluateexprs\intstack.cpp
+	"IntStack.h"
+
+1478190979 e:\documents\5th semester 163\cse225\codes\evaluateexprs\intstack.h
+	<iostream>
+	"Header.h"
+
+1478192720 source:e:\documents\5th semester 163\cse225\codes\evaluateexprs\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cstdlib>
+	"CharStack.h"
+	"IntStack.h"
+	<fstream>
+

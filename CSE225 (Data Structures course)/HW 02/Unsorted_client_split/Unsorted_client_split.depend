@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1477644123 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted_client_split\itemtype.cpp
+	"ItemType.h"
+
+1477644123 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted_client_split\itemtype.h
+	<iostream>
+	<fstream>
+
+1477782364 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted_client_split\main.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1477644953 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted_client_split\unsortedtype.cpp
+	"UnsortedType.h"
+
+1477644859 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted_client_split\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+

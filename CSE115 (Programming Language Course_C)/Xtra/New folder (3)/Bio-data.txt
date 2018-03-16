@@ -1,0 +1,14 @@
+Bio-data: 1
+Name: muiz
+Gender: male
+Occupation: student
+Age: 20
+Blood group: A+
+
+Bio-data: 2
+Name: Muiz Ahmed Khan
+Gender: Male
+Occupation: Businessman
+Age: 28
+Blood group: A+
+

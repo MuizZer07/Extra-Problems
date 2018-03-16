@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1477647602 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted modified deleteitem\itemtype.cpp
+	"ItemType.h"
+
+1477647602 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted modified deleteitem\itemtype.h
+	<iostream>
+	<fstream>
+
+1477685853 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted modified deleteitem\main.cpp
+	<iostream>
+	"Itemtype.h"
+	"UnsortedType.h"
+
+1477685893 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted modified deleteitem\unsortedtype.cpp
+	"UnsortedType.h"
+
+1477647602 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted modified deleteitem\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+

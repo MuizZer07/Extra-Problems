@@ -1,0 +1,18 @@
+GetStatus
+AddContact Ironman 0171000000 Dallas ironman@gmail.com
+AddContact Alice 0191000000 Houston alice@gmail.com
+AddContact Bob 015100000 Austin bob@yahoo.com
+AddContact wolverine 0181000000 Austin Wolverine@live.com
+PrintList
+SearchContact Bob
+DeleteContact Alice
+PrintList
+AddContact John 016100000 Austin john@yahoo.com
+AddContact Trudy 0191000000 Austin trudy@gmail.com
+GetStatus
+PrintList
+FindContact
+SearchContact wolverine
+MakeEmpty
+PrintList
+Quit

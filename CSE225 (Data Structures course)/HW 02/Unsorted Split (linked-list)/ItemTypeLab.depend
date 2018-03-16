@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1477495456 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (linked-list)\itemtype.cpp
+	"ItemType.h"
+
+1477495478 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (linked-list)\itemtype.h
+	<iostream>
+	<fstream>
+
+1477350132 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (linked-list)\unsortedtype.cpp
+	"UnsortedType.h"
+
+1477495867 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (linked-list)\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1477495628 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (linked-list)\main.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+

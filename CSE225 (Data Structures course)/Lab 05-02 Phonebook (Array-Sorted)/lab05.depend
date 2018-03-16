@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1477602916 source:e:\documents\5th semester 163\cse225\new folder\lab 05-02 phonebook (array-sorted)\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"SortedType.h"
+	"PhoneBook.h"
+
+1477602916 e:\documents\5th semester 163\cse225\new folder\lab 05-02 phonebook (array-sorted)\itemtype.h
+	<iostream>
+	<fstream>
+
+1477605214 e:\documents\5th semester 163\cse225\new folder\lab 05-02 phonebook (array-sorted)\sortedtype.h
+	<iostream>
+	"ItemType.h"
+
+1477603177 e:\documents\5th semester 163\cse225\new folder\lab 05-02 phonebook (array-sorted)\phonebook.h
+	"SortedType.h"
+	"ItemType.h"
+	<fstream>
+	<iostream>
+
+1477603741 source:e:\documents\5th semester 163\cse225\new folder\lab 05-02 phonebook (array-sorted)\phonebook.cpp
+	"ItemType.h"
+	"PhoneBook.h"
+
+1477605950 source:e:\documents\5th semester 163\cse225\new folder\lab 05-02 phonebook (array-sorted)\sortedtype.cpp
+	"SortedType.h"
+
+1477604850 source:e:\documents\5th semester 163\cse225\new folder\lab 05-02 phonebook (array-sorted)\itemtype.cpp
+	"ItemType.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1479752876 source:e:\documents\5th semester 163\cse225\codes\lab 08 recusion\lab08\main.cpp
+	<iostream>
+	"FunRecursion.h"
+
+1479752876 e:\documents\5th semester 163\cse225\codes\lab 08 recusion\lab08\funrecursion.h
+
+1479752354 source:e:\documents\5th semester 163\cse225\codes\lab 08 recusion\lab08\funrecursion.cpp
+	<string>
+	<cstring>
+	<cstdlib>
+	"FunRecursion.h"
+	<iostream>
+

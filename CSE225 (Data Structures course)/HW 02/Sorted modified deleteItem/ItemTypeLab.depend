@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1477492923 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\itemtype.cpp
+	"ItemType.h"
+
+1477492923 e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\itemtype.h
+	<iostream>
+	<fstream>
+
+1477608079 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"sortedType.h"
+
+1477607730 e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\sortedtype.h
+	<iostream>
+	"ItemType.h"
+
+1477607730 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\sortedtype.cpp
+	"SortedType.h"
+
+1477492923 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted modified deleteitem\itemtype.cpp
+	"ItemType.h"
+
+1477492923 e:\documents\5th semester 163\cse225\new folder\hw 02\sorted modified deleteitem\itemtype.h
+	<iostream>
+	<fstream>
+
+1477686457 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted modified deleteitem\sortedtype.cpp
+	"SortedType.h"
+
+1477607730 e:\documents\5th semester 163\cse225\new folder\hw 02\sorted modified deleteitem\sortedtype.h
+	<iostream>
+	"ItemType.h"
+
+1477686386 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted modified deleteitem\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"sortedType.h"
+

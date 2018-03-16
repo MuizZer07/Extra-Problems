@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1474391855 source:e:\documents\5th semester 163\cse225\new folder\lab2task\author.cpp
+	"Author.h"
+
+1474391666 e:\documents\5th semester 163\cse225\new folder\lab2task\author.h
+	<string>
+	<iostream>
+
+1474392819 source:e:\documents\5th semester 163\cse225\new folder\lab2task\main.cpp
+	<iostream>
+	"Book.h"
+	"Author.h"
+
+1474392249 source:e:\documents\5th semester 163\cse225\new folder\lab2task\book.cpp
+	"Book.h"
+
+1474392387 e:\documents\5th semester 163\cse225\new folder\lab2task\book.h
+	"Author.h"
+	<string>
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479625009 source:e:\documents\5th semester 163\cse225\codes\lab 08 stacktype templete\stacktype.cpp
+	"StackType.h"
+
+1479625129 e:\documents\5th semester 163\cse225\codes\lab 08 stacktype templete\stacktype.h
+	<iostream>
+	"StackType.cpp"
+
+1479625009 e:\documents\5th semester 163\cse225\codes\lab 08 stacktype templete\stacktype.cpp
+	"StackType.h"
+

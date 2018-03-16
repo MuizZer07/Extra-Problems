@@ -1,0 +1,30 @@
+tase
+Phone Book is not full.
+Name: Ironman Number: 0171000000 Address: Dallas Email: ironman@gmail.com is in Phone Book.
+Name: Alice Number: 0191000000 Address: Houston Email: alice@gmail.com is in Phone Book.
+Name: Bob Number: 015100000 Address: Austin Email: bob@yahoo.com is in Phone Book.
+Name: wolverine Number: 0181000000 Address: Austin Email: Wolverine@live.com is in Phone Book.
+Print Contact List.
+Name: Ironman Number: 0171000000 Address: Dallas Email: ironman@gmail.com
+Name: Alice Number: 0191000000 Address: Houston Email: alice@gmail.com
+Name: Bob Number: 015100000 Address: Austin Email: bob@yahoo.com
+Name: wolverine Number: 0181000000 Address: Austin Email: Wolverine@live.com
+Name: Bob Number: 015100000 Address: Austin Email: bob@yahoo.com found in Phone Book.
+Aliceis deleted form Phone Book.
+Print Contact List.
+Name: Ironman Number: 0171000000 Address: Dallas Email: ironman@gmail.com
+Name: wolverine Number: 0181000000 Address: Austin Email: Wolverine@live.com
+Name: Bob Number: 015100000 Address: Austin Email: bob@yahoo.com
+Name: John Number: 016100000 Address: Austin Email: john@yahoo.com is in Phone Book.
+Name: Trudy Number: 0191000000 Address: Austin Email: trudy@gmail.com is in Phone Book.
+Phone Book is full.
+Print Contact List.
+Name: Ironman Number: 0171000000 Address: Dallas Email: ironman@gmail.com
+Name: wolverine Number: 0181000000 Address: Austin Email: Wolverine@live.com
+Name: Bob Number: 015100000 Address: Austin Email: bob@yahoo.com
+Name: John Number: 016100000 Address: Austin Email: john@yahoo.com
+Name: Trudy Number: 0191000000 Address: Austin Email: trudy@gmail.com
+Name: wolverine Number: 0181000000 Address: Austin Email: Wolverine@live.com found in Phone Book.
+Phone Book is empty.
+Print Contact List.
+Phone Book is empty.

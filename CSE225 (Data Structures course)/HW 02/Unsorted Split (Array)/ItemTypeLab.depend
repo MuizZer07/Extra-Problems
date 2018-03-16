@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1477492561 source:e:\documents\5th semester 163\cse225\new folder\hw 02-01\itemtype.cpp
+	"ItemType.h"
+
+1477491518 e:\documents\5th semester 163\cse225\new folder\hw 02-01\itemtype.h
+	<iostream>
+	<fstream>
+
+1477492393 source:e:\documents\5th semester 163\cse225\new folder\hw 02-01\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1477491565 e:\documents\5th semester 163\cse225\new folder\hw 02-01\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1477492413 source:e:\documents\5th semester 163\cse225\new folder\hw 02-01\unsortedtype.cpp
+	"UnsortedType.h"
+
+1477492561 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split\itemtype.cpp
+	"ItemType.h"
+
+1477491518 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split\itemtype.h
+	<iostream>
+	<fstream>
+
+1477494784 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1477494978 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1477494978 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split\unsortedtype.cpp
+	"UnsortedType.h"
+
+1477492561 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (array)\itemtype.cpp
+	"ItemType.h"
+
+1477491518 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (array)\itemtype.h
+	<iostream>
+	<fstream>
+
+1477783932 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (array)\unsortedtype.cpp
+	"UnsortedType.h"
+
+1477494978 e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (array)\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1477783874 source:e:\documents\5th semester 163\cse225\new folder\hw 02\unsorted split (array)\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+

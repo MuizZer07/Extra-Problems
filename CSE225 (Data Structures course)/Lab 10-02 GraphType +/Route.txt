@@ -1,0 +1,12 @@
+Atlanta Houston 800
+Atlanta Washington 600
+Austin Dallas 200
+Austin Houston 160
+Chicago Denver 1000
+Dallas Denver 780
+Dallas Austin 200
+Dallas Chicago 900
+Denver Chicago 1000
+Denver Atlanta 1400
+Houston Atlanta 800
+Washington Dallas 1300

@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1475447442 source:e:\documents\5th semester 163\cse225\new folder\itemtypelab\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1475446486 source:e:\documents\5th semester 163\cse225\new folder\itemtypelab\itemtype.cpp
+	"ItemType.h"
+
+1475086522 e:\documents\5th semester 163\cse225\new folder\itemtypelab\itemtype.h
+	<iostream>
+	<fstream>
+
+1475447943 source:e:\documents\5th semester 163\cse225\new folder\itemtypelab\unsortedtype.cpp
+	"UnsortedType.h"
+
+1475444328 e:\documents\5th semester 163\cse225\new folder\itemtypelab\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1476654574 source:e:\documents\5th semester 163\cse225\new folder\lab 04 phonebook\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+	"PhoneBook.h"
+
+1476646859 e:\documents\5th semester 163\cse225\new folder\lab 04 phonebook\itemtype.h
+	<iostream>
+	<fstream>
+
+1476653415 e:\documents\5th semester 163\cse225\new folder\lab 04 phonebook\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1476653863 source:e:\documents\5th semester 163\cse225\new folder\lab 04 phonebook\unsortedtype.cpp
+	"UnsortedType.h"
+
+1476651116 source:e:\documents\5th semester 163\cse225\new folder\lab 04 phonebook\itemtype.cpp
+	"ItemType.h"
+
+1476654792 source:e:\documents\5th semester 163\cse225\new folder\lab 04 phonebook\phonebook.cpp
+	"PhoneBook.h"
+
+1476647769 e:\documents\5th semester 163\cse225\new folder\lab 04 phonebook\phonebook.h
+	"UnsortedType.h"
+	<fstream>
+	<iostream>
+
+1476608348 source:e:\new folder (3)\lab 04 phonebook\itemtype.cpp
+	"ItemType.h"
+
+1476608350 e:\new folder (3)\lab 04 phonebook\itemtype.h
+	<iostream>
+	<fstream>
+
+1476608350 source:e:\new folder (3)\lab 04 phonebook\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+	"PhoneBook.h"
+
+1476780683 e:\new folder (3)\lab 04 phonebook\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1476608350 e:\new folder (3)\lab 04 phonebook\phonebook.h
+	"UnsortedType.h"
+	<fstream>
+	<iostream>
+
+1476782585 source:e:\new folder (3)\lab 04 phonebook\phonebook.cpp
+	"PhoneBook.h"
+
+1476782584 source:e:\new folder (3)\lab 04 phonebook\unsortedtype.cpp
+	"UnsortedType.h"
+
+1477349759 source:e:\documents\5th semester 163\cse225\new folder\lab 05-01 phonebook with linked-list\itemtype.cpp
+	"ItemType.h"
+
+1477349761 e:\documents\5th semester 163\cse225\new folder\lab 05-01 phonebook with linked-list\itemtype.h
+	<iostream>
+	<fstream>
+
+1477349770 source:e:\documents\5th semester 163\cse225\new folder\lab 05-01 phonebook with linked-list\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+	"PhoneBook.h"
+
+1477349782 e:\documents\5th semester 163\cse225\new folder\lab 05-01 phonebook with linked-list\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1477350161 e:\documents\5th semester 163\cse225\new folder\lab 05-01 phonebook with linked-list\phonebook.h
+	"UnsortedType.h"
+	<fstream>
+	<iostream>
+
+1477349775 source:e:\documents\5th semester 163\cse225\new folder\lab 05-01 phonebook with linked-list\phonebook.cpp
+	"PhoneBook.h"
+
+1477350132 source:e:\documents\5th semester 163\cse225\new folder\lab 05-01 phonebook with linked-list\unsortedtype.cpp
+	"UnsortedType.h"
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1477421128 source:e:\documents\5th semester 163\cse225\new folder\lab 06 stacktype (array)\main.cpp
+	<iostream>
+	<fstream>
+	"Stack.h"
+
+1477419791 source:e:\documents\5th semester 163\cse225\new folder\lab 06 stacktype (array)\stack.cpp
+	"Stack.h"
+
+1477419643 e:\documents\5th semester 163\cse225\new folder\lab 06 stacktype (array)\stack.h
+	<iostream>
+	"ItemType.h"
+	<fstream>
+	<string>
+
+1477419334 e:\documents\5th semester 163\cse225\new folder\lab 06 stacktype (array)\itemtype.h
+	<string>
+
+1477422196 source:e:\documents\5th semester 163\cse225\codes\lab 06-01 stacktype (array)\main.cpp
+	<iostream>
+	<fstream>
+	"Stack.h"
+
+1477419643 e:\documents\5th semester 163\cse225\codes\lab 06-01 stacktype (array)\stack.h
+	<iostream>
+	"ItemType.h"
+	<fstream>
+	<string>
+
+1477419334 e:\documents\5th semester 163\cse225\codes\lab 06-01 stacktype (array)\itemtype.h
+	<string>
+
+1477419791 source:e:\documents\5th semester 163\cse225\codes\lab 06-01 stacktype (array)\stack.cpp
+	"Stack.h"
+

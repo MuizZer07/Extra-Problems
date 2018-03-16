@@ -1,0 +1,7 @@
+The tree is empty.
+The tree is not empty.
+b f g h p r s t w y z 
+x is not in the tree.
+p is in the tree.
+a is not in the tree.
+b f g r s t w y z 

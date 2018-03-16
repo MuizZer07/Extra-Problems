@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1477489102 source:e:\documents\5th semester 163\cse225\new folder\lab 06-03\lab06\main.cpp
+	<iostream>
+	<fstream>
+	"Stack.h"
+
+1477484110 source:e:\documents\5th semester 163\cse225\new folder\lab 06-03\lab06\stack.cpp
+	"Stack.h"
+
+1477484110 e:\documents\5th semester 163\cse225\new folder\lab 06-03\lab06\stack.h
+	<iostream>
+	"ItemType.h"
+	<fstream>
+	<string>
+
+1477424822 e:\documents\5th semester 163\cse225\new folder\lab 06-03\lab06\itemtype.h
+

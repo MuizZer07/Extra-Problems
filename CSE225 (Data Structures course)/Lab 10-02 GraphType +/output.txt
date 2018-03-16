@@ -1,0 +1,3 @@
+Out degree of Dallas and Chicago: 7
+degree of Chicago: 2
+There is no edge between Washington and Atlanta

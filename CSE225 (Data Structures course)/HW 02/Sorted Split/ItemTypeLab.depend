@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477492923 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\itemtype.cpp
+	"ItemType.h"
+
+1477492923 e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\itemtype.h
+	<iostream>
+	<fstream>
+
+1477610174 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"sortedType.h"
+
+1477607730 e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\sortedtype.h
+	<iostream>
+	"ItemType.h"
+
+1477607730 source:e:\documents\5th semester 163\cse225\new folder\hw 02\sorted split\sortedtype.cpp
+	"SortedType.h"
+

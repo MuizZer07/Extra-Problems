@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1475447442 source:e:\documents\5th semester 163\cse225\new folder\itemtypelab\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1475446486 source:e:\documents\5th semester 163\cse225\new folder\itemtypelab\itemtype.cpp
+	"ItemType.h"
+
+1475086522 e:\documents\5th semester 163\cse225\new folder\itemtypelab\itemtype.h
+	<iostream>
+	<fstream>
+
+1475447943 source:e:\documents\5th semester 163\cse225\new folder\itemtypelab\unsortedtype.cpp
+	"UnsortedType.h"
+
+1475444328 e:\documents\5th semester 163\cse225\new folder\itemtypelab\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1475446486 source:e:\documents\5th semester 163\cse225\new folder\lab 03 itemtype + unsortedtype\itemtype.cpp
+	"ItemType.h"
+
+1475086522 e:\documents\5th semester 163\cse225\new folder\lab 03 itemtype + unsortedtype\itemtype.h
+	<iostream>
+	<fstream>
+
+1475448398 source:e:\documents\5th semester 163\cse225\new folder\lab 03 itemtype + unsortedtype\main.cpp
+	<iostream>
+	<fstream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1475444328 e:\documents\5th semester 163\cse225\new folder\lab 03 itemtype + unsortedtype\unsortedtype.h
+	"ItemType.h"
+	<iostream>
+
+1475447943 source:e:\documents\5th semester 163\cse225\new folder\lab 03 itemtype + unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+
