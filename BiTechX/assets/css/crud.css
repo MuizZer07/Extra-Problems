@@ -1,0 +1,19 @@
+.message_success{
+    text-align: center;
+    padding: 30px;
+    background-color: #6ed06e;
+    color: white;
+}
+
+
+.message_error{
+    text-align: center;
+    padding: 30px;
+    color: white;
+    background-color: #ff0000a8;
+}
+
+.cell {
+    margin: 20px;
+    padding: 10px;
+}
